@@ -1,0 +1,13 @@
+c:\users\xicocana\source\repos\Voluino\Voluino\bin\Debug\Voluino.exe.config
+c:\users\xicocana\source\repos\Voluino\Voluino\bin\Debug\Voluino.exe
+c:\users\xicocana\source\repos\Voluino\Voluino\bin\Debug\Voluino.pdb
+c:\users\xicocana\source\repos\Voluino\Voluino\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+c:\users\xicocana\source\repos\Voluino\Voluino\bin\Debug\AudioSwitcher.AudioApi.dll
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.csprojAssemblyReference.cache
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.Form1.resources
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.Properties.Resources.resources
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.csproj.GenerateResource.cache
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.csproj.CoreCompileInputs.cache
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.csproj.CopyComplete
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.exe
+c:\users\xicocana\source\repos\Voluino\Voluino\obj\Debug\Voluino.pdb
