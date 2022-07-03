@@ -1,7 +1,7 @@
 # Voluino
 A c# windows volume control hub built in visual studio 17
 
-* change volume by rotating potentiomether
+* change volume by rotating potentiometer
 
 * change output soud device by switching button
     * headset
